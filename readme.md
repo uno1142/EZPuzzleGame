@@ -19,7 +19,7 @@ Goボタンを押すとTYAMAくんが重力に従って落ちていくので、�
 
 ビルドするのは大変だと思うのでプレイ動画を用意しました。  
 
-[Youtubeリンク](https://youtu.be/Cl0yaanCmjI)
+[Youtubeリンク](https://youtu.be/vBnjGe15fWo)
 
 
 ## 謝辞
